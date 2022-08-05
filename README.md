@@ -8,6 +8,7 @@
 unkn0wnP/unkn0wnP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -29,3 +30,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=unkn0wnP" alt="Prince Gadhiya" />
   <img src="https://img.shields.io/github/followers/unkn0wnP?style=flat&color=red&label=GitHub%20Followers%20"/></a></a>
 </p>
+-->
